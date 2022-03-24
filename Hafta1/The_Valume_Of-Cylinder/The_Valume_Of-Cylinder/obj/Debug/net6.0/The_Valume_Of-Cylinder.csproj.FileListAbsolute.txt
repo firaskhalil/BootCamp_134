@@ -1,0 +1,15 @@
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\bin\Debug\net6.0\The_Valume_Of-Cylinder.exe
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\bin\Debug\net6.0\The_Valume_Of-Cylinder.deps.json
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\bin\Debug\net6.0\The_Valume_Of-Cylinder.runtimeconfig.json
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\bin\Debug\net6.0\The_Valume_Of-Cylinder.dll
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\bin\Debug\net6.0\The_Valume_Of-Cylinder.pdb
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.csproj.AssemblyReference.cache
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.AssemblyInfoInputs.cache
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.AssemblyInfo.cs
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.dll
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\refint\The_Valume_Of-Cylinder.dll
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.pdb
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\The_Valume_Of-Cylinder.genruntimeconfig.cache
+C:\Users\EXPERT\source\repos\BootCamp_134\Hafta1\The_Valume_Of-Cylinder\The_Valume_Of-Cylinder\obj\Debug\net6.0\ref\The_Valume_Of-Cylinder.dll
