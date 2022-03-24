@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EXPERT\\source\\repos\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj": {}
+    "C:\\Users\\EXPERT\\source\\repos\\BootCamp_134\\Hafta1\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EXPERT\\source\\repos\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj": {
+    "C:\\Users\\EXPERT\\source\\repos\\BootCamp_134\\Hafta1\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EXPERT\\source\\repos\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj",
+        "projectUniqueName": "C:\\Users\\EXPERT\\source\\repos\\BootCamp_134\\Hafta1\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj",
         "projectName": "Prime_Numbers1",
-        "projectPath": "C:\\Users\\EXPERT\\source\\repos\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj",
+        "projectPath": "C:\\Users\\EXPERT\\source\\repos\\BootCamp_134\\Hafta1\\Prime_Numbers1\\Prime_Numbers1\\Prime_Numbers1.csproj",
         "packagesPath": "C:\\Users\\EXPERT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EXPERT\\source\\repos\\Prime_Numbers1\\Prime_Numbers1\\obj\\",
+        "outputPath": "C:\\Users\\EXPERT\\source\\repos\\BootCamp_134\\Hafta1\\Prime_Numbers1\\Prime_Numbers1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
